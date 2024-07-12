@@ -9,11 +9,6 @@ I have a strong background in JAVA, and I enjoy working on projects that challen
 
 - Flutter Development
 
-## 🌱 Currently Learning
-
-- 
-- 
-
 ## 💼 Skills
 
 - **Languages:** Java , Python , Basics of C , SQL
@@ -26,9 +21,6 @@ I have a strong background in JAVA, and I enjoy working on projects that challen
 - **Email:** ganeshmuchkhed@gmail.com
 - **LinkedIn:** www.linkedin.com/in/ganesh-muchkhed-389796240
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GANESH2903&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect!
 
@@ -47,4 +39,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🌱 Currently Learning
+
+- 
+- 
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GANESH2903&show_icons=true&theme=radical)
 -->
